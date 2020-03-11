@@ -1,2 +1,2 @@
 # practical-laravel
-Sourcecode for the Practical Laravel 6 book - Apress
+Sourcecode for the Practical Laravel 7 book - Apress
